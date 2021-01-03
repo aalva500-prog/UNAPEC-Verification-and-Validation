@@ -4,4 +4,4 @@
 
 ### Purpose: Application created to simulate the selection of courses for a student at UNAPEC (Dominican Republic).
 
-**Tools used: Java, Eclipse, WindowsBuilder, Swing**
+**Tools used:** Java, Eclipse, WindowsBuilder, Swing
