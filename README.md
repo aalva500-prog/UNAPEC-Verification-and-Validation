@@ -1,3 +1,5 @@
+## Author: Aaron Alvarez
+
 ## UNAPEC Verification and Validation
 
-### Application created to simulate course selection for a student at UNAPEC.
+### Purpose: Application created to simulate the selection of courses for a student at UNAPEC (Dominican Republic).
